@@ -15,3 +15,5 @@
 now you will find the new folder same as your repo's name
 
 7. now open that folder in vs code
+
+8.
