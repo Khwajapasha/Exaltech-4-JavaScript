@@ -1,4 +1,4 @@
- var azhar = Math.ceil(Math.random() * 6);
+ var azhar = Math.ceil(Math.random() * 10);
 console.log(azhar);
 
 
