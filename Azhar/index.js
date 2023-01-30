@@ -38,5 +38,4 @@ var button = document.getElementById("btn");
 button.addEventListener("click", function () {
   var azhar = Math.ceil(Math.random() * 10);
   console.log(azhar);
-  
 });
