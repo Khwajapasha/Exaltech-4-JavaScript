@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // var button = document.getElementById("btn")
 
 
@@ -29,3 +30,13 @@ console.log(Math.trunc(20.40));
 console.log(Math.trunc(20.99));
 
 // 5:- Math.
+
+var button = document.getElementById("btn");
+
+// console.log(button);
+
+button.addEventListener("click", function () {
+  var azhar = Math.ceil(Math.random() * 10);
+  console.log(azhar);
+  
+});
